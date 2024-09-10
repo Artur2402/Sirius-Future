@@ -4,7 +4,7 @@
 
 Склонируйте проект и перейдите в директорию проекта:
 ```
-git clone (https://github.com/Artur2402/Sirius-Future.git)
+git clone https://github.com/Artur2402/Sirius-Future.git
 cd referral_program
 ```
 Установите виртуальное окружение и активируйте его:
