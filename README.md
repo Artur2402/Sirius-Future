@@ -136,8 +136,7 @@ python manage.py test
 **Тело запроса:**
 ```
 {
-  "amount": 100,
-  "currency": "USD"
+  "amount": 100
 }
 ```
 
